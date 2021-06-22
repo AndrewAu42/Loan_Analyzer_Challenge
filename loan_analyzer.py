@@ -159,3 +159,5 @@ print('Completed! Double Check the File!')
 print(" ")
 print("----------------------------------------------------")
 print(" ")
+
+#always verify the file after the file has been committed to verify the data integrity
